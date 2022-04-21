@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dovineowuor
-- 👀 I’m interested in web development, Python programming, Web design, Android development, Analytics, Programming languages, Data Science, Computer Science
+- 👀 I’m am a Junior Software Engineer who is passionate about App design,, Software Engineering, DevOps Engineering, web development, Python programming, Web design, Android development, Analytics, Programming languages, Data Science, Computer Science
 - 🌱 I’m currently learning computer Science at University Of The People. I am also a Technical Education student at Kirinyaga University. 
 - 💞️ I’m looking to collaborate on App Development/ UI/UX / Web Development, Programming
 - 📫 How to reach me ;
