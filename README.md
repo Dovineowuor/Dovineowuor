@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Dovetec.org](https://github.com/Dovetech-inc/Dovetec.org)
 
-- 🌱 I’m currently learning **Vue.js, Node.js**
+- 🌱 I’m currently learning **Vue.js, Node.js, Python, C**
 
 - 👯 I’m looking to collaborate on [Dovetec.org](https://github.com/Dovetech-inc/Dovetec.org)
 
