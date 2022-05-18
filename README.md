@@ -18,9 +18,9 @@
 
 - 🤝 I’m looking for help with **Dovetec.org Android App**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dovineowuor/Dovine-Owuor-Portfolio](https://github.com/Dovineowuor/Dovine-Owuor-Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Dovineowuor](https://github.com/Dovineowuor)
 
-- 📝 I regularly write articles on [https://github.com/Dovineowuor/Dovine-Owuor-Portfolio](https://github.com/Dovineowuor/Dovine-Owuor-Portfolio)
+- 📝 I regularly write articles on [Dovetec.blogspot.com](https://dovetec.blogspot.com/?m=1)
 
 - 💬 Ask me about **Python, Software Engineering, Android Development, App archutecture, Web sesign, Web Engineering, DevOps Engineering**
 
@@ -29,7 +29,6 @@
 - 🌱 I’m currently learning computer Science at University Of The People. I am also a Technical Education student at Kirinyaga University. 
 - 💞️ I’m looking to collaborate on App Development/ UI/UX / Web Development, Programming
 - 📫 How to reach me ;
-                    -https://wa.me/+254111335493
                     -https://www.linkedin.com/in/dovine-owuor-840298209
                     -Email owuordove@gmail.com
                     -Call: +254111335494
@@ -40,6 +39,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+1. https://dovetec.blogspot.com/2022/05/android-development-global-summit.html
+2. https://dovetec.blogspot.com/2022/04/c-comand-line-arguments.html
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
