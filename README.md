@@ -1,4 +1,15 @@
-
+<div id="header" align="center">
+  <img
+  src="https://github.com/Dovineowuor/Dovineowuor/blob/main/IMG_20220502_171849_545.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px; border-radius: 25px; ">
+    
+  <h1>
+    Hello, there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Dovine Owuor</h1>
