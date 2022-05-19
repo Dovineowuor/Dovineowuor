@@ -6,7 +6,7 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px; border-radius: 25px; ">
     
   <h1>
-    Hello, there
+    
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -74,6 +74,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dovineowuor&" alt="dovineowuor" /></p>
 
 <!---
-Dovineowuor/Dovineowuor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dovineowuor/Dovineowuor is a ✨ special ✨ repository because its `README.md` (this file) appears on This GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
