@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img
-  src="https://github.com/Dovineowuor/Dovineowuor/blob/main/IMG_20220502_171849_545.jpg"
+  src="https://user-images.githubusercontent.com/70941806/176784858-1b0d9c1c-1603-4f20-afdc-130d0da9a84a.jpeg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px; border-radius: 25px; ">
