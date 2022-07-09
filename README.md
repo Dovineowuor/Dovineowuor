@@ -72,6 +72,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dovineowuor&" alt="dovineowuor" /></p>
 
 <!---
-Dovineowuor/Dovineowuor is a ✨ special ✨ repository because its `README.md` (this file) appears on This GitHub profile.
-You can click the Preview link to take a look at your changes.
+Dovineowuor/Dovineowuor is a ✨ special ✨ repository because its `README.md` (this file) appears on This GitHub profile.![Dovine Owuor](https://user-images.githubusercontent.com/70941806/178122822-b176c902-1f19-4f9c-9ade-a9b7191f856b.jpg)
 --->
