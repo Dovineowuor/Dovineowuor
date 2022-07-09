@@ -50,7 +50,7 @@
 2. https://dovetec.blogspot.com/2022/04/c-comand-line-arguments.html
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dovineowuor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dovineowuor" height="30" width="40" /></a>
 <a href="https://dev.to/dev.dovineowuor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.dovineowuor" height="30" width="40" /></a>
