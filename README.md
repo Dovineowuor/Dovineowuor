@@ -73,4 +73,7 @@
 
 <!---
 Dovineowuor/Dovineowuor is a ✨ special ✨ repository because its `README.md` (this file) appears on This GitHub profile.![Dovine Owuor](https://user-images.githubusercontent.com/70941806/178122822-b176c902-1f19-4f9c-9ade-a9b7191f856b.jpg)
+![01-css-challenge-demo](https://user-images.githubusercontent.com/70941806/198580320-5626738b-930b-42ac-9738-f96140ecc21e.gif)
+![portfolio](https://user-images.githubusercontent.com/70941806/198580412-c73c92c9-a8bb-44ea-8972-856cf27026bb.png)
+
 --->
