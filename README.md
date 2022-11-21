@@ -1,8 +1,11 @@
 <div id="header" align="center">
-  ![LinkedIN Banner (Community) (Copy)](https://user-images.githubusercontent.com/70941806/203090731-8fe3c20d-6be2-49d9-a09a-6d0f3cce8c58.png)
+  <img src = "https://user-images.githubusercontent.com/70941806/203090731-8fe3c20d-6be2-49d9-a09a-6d0f3cce8c58.png" 
+<!--   ![LinkedIN Banner (Community) (Copy)](https://user-images.githubusercontent.com/70941806/203090731-8fe3c20d-6be2-49d9-a09a-6d0f3cce8c58.png) -->
 
 <!--   <img
-  src="https://user-images.githubusercontent.com/70941806/176784858-1b0d9c1c-1603-4f20-afdc-130d0da9a84a.jpeg"
+  src="https://user-images.githubusercontent.com/70941806/176784858-1b0d9c1c-1603-4f20-afdc-130d0da9a84a.jpeg" alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px; border-radius: 25px; "> 
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px; border-radius: 25px; "> -->
