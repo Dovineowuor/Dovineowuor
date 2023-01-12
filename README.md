@@ -24,7 +24,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Dovetec.org](https://github.com/Dovetech-inc/Dovetec.org)
+- 🔭 I’m currently working on [Dove Market](https://github.com/dovineowuor/Dove-Market) An e-commerse platform with exclusively unique features helping clients source products and sellers source leads and sales just from the palm of their hands.
 
 - 🌱 I’m currently learning **Vue.js, Node.js, Python, C**
 
