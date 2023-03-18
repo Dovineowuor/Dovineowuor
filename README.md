@@ -70,9 +70,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dovineowuor&" alt="dovineowuor" /></p>
 
 <!---
-Dovineowuor/Dovineowuor is a ✨ special ✨ repository because its `README.md` (this file) appears on This GitHub profile.![Dovine Owuor](https://user-images.githubusercontent.com/70941806/178122822-b176c902-1f19-4f9c-9ade-a9b7191f856b.jpg)
-![01-css-challenge-demo](https://user-images.githubusercontent.com/70941806/198580320-5626738b-930b-42ac-9738-f96140ecc21e.gif)
-![portfolio](https://user-images.githubusercontent.com/70941806/198580412-c73c92c9-a8bb-44ea-8972-856cf27026bb.png)
+Dovineowuor/Dovineowuor is a ✨ special ✨ repository because its `README.md` (this file) appears on This GitHub profile.
+![Dovine Owuor](https://user-images.githubusercontent.com/70941806/178122822-b176c902-1f19-4f9c-9ade-a9b7191f856b.jpg)
 ![01-html-css-git-challenge-demo](https://user-images.githubusercontent.com/70941806/198583876-16675f7a-36b2-40d6-8aa7-695c4e117f4b.png)
 ![portfolio](https://user-images.githubusercontent.com/70941806/200201815-29c04982-1550-43c3-98b9-fea3b3a089ea.png)
 
