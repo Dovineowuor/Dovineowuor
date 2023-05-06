@@ -70,6 +70,8 @@ The Issue-Tracking-System is a project management tool designed to help teams tr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dovineowuor&show_icons=true&locale=en" alt="dovineowuor" /></p>
 
+[![dovineowuor's GitHub | Stats](https://stats.quine.sh/dovineowuor/github?theme=light)](https://quine.sh)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dovineowuor&" alt="dovineowuor" /></p>
 
 <!---
