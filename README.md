@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Dovine Owuor</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dovineowuor&label=Profile%20views&color=0e75b6&style=flat" alt="dovineowuor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dovineowuor&label=Profile%20views&color=0e75b6&style=flat" alt="dovineowuor" /> <a href="https://wakatime.com/@018c6692-8003-4ad8-879d-3b51dfdf2fc9"><img src="https://wakatime.com/badge/user/018c6692-8003-4ad8-879d-3b51dfdf2fc9.svg" alt="Dovine's Total time coded since Dec 14 2023" /></a></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dovineowuor" alt="dovineowuor" /></a> </p>
 
