@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Domatex Soln Project](https://github.com/dovineowuor/Domatex-Soln) 
+- 🔭 I’m currently working on [TechDarasa]() An Edtech product fueled by passion and grit with ikigai encompassed
 
 The Issue-Tracking-System is a project management tool designed to help teams track and manage issues or problems within a project or organization. The system allows team members to report issues, assign them to specific individuals or teams, set priorities, and track progress. The system also allows for communication between team members and stakeholders, ensuring that everyone is aware of the status of each issue. The Issue-Tracking-System provides a centralized platform for issue management, making it easier to identify and resolve issues before they become critical. The system is ideal for teams working on complex projects where issues are likely to arise and need to be tracked, monitored, and resolved efficiently.
 
