@@ -1,8 +1,9 @@
 <div id="header" align="center">
-  <img src = "https://user-images.githubusercontent.com/70941806/203090731-8fe3c20d-6be2-49d9-a09a-6d0f3cce8c58.png" 
-<!--   ![LinkedIN Banner (Community) (Copy)](https://user-images.githubusercontent.com/70941806/203090731-8fe3c20d-6be2-49d9-a09a-6d0f3cce8c58.png) -->
+  <img src = "https://github.com/Dovineowuor/Dovineowuor/assets/70941806/6241c646-4430-40b8-9bfe-91e0bc55420f" 
+<!--  ![image]()  -->
 
     
+
   <h1>
   </h1>
 </div>
