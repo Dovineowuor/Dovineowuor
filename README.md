@@ -9,7 +9,17 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Dovine Kr</h1>
+<h1 align="center">Hello There 👋, I'm Dovine K</h1>
+
+<p>
+  <center>
+    <a href="https://github.com/Dovineowuor">
+        <img id="header" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dovineowuor&theme=radical" alt="dovineowuor"/>
+    </a>
+  </center>
+    
+</p>
+
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dovineowuor&label=Profile%20views&color=0e75b6&style=flat" alt="dovineowuor" /> <a href="https://wakatime.com/@018c6692-8003-4ad8-879d-3b51dfdf2fc9"><img src="https://wakatime.com/badge/user/018c6692-8003-4ad8-879d-3b51dfdf2fc9.svg" alt="Dovine's Total time coded since Dec 14 2023" /></a></p>
