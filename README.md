@@ -17,30 +17,29 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [TechDarasa]() An Edtech product fueled by passion and grit with ikigai encompassed
+- 🔭 I’m currently working on [TechDarasa](https://techdarasa.tech) An Edtech product fueled by passion and grit with ikigai encompassed
 
-The Issue-Tracking-System is a project management tool designed to help teams track and manage issues or problems within a project or organization. The system allows team members to report issues, assign them to specific individuals or teams, set priorities, and track progress. The system also allows for communication between team members and stakeholders, ensuring that everyone is aware of the status of each issue. The Issue-Tracking-System provides a centralized platform for issue management, making it easier to identify and resolve issues before they become critical. The system is ideal for teams working on complex projects where issues are likely to arise and need to be tracked, monitored, and resolved efficiently.
+Currently, I'm involved in [Techdarasa](https://techdarasa.tech) a project centered around Techdarasa, a robust learning management system designed to revolutionize education delivery. Techdarasa seamlessly integrates interactive modules, multimedia resources, and assessment tools to enhance the learning experience. Leveraging cutting-edge technology, it offers personalized learning paths tailored to individual needs. Through collaborative features, it fosters engagement and knowledge sharing among students and educators alike. With its intuitive interface and comprehensive analytics, Techdarasa empowers educators to track progress and optimize teaching strategies, ultimately shaping a dynamic and adaptive learning ecosystem.
 
-- 🌱 I’m currently learning **Vue.js, Node.js, Python, C**
+- 🌱 I’m currently learning **Kotlin, Java, Vue.js, Node.js, Python, C**
 
-- 👯 I’m looking to collaborate on [Dovetec.org](https://github.com/Dovetech-inc/Dovetec.org)
+- 👯 I’m looking to collaborate on [TechDarasa](https://techdarasa.tech)
 
 - 🤝 I’m looking for Collaboration in the Project **Domatex Soln**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dovineowuor](https://github.com/Dovineowuor)
+- 👨‍💻 All of my projects are available at [Dovine OWuor](https://dovineowuoir.me)
 
 - 📝 I regularly write articles on [Dovetec.blogspot.com](https://dovetec.blogspot.com/?m=1) and [Medium](https://medium.com/@owuordove)
 
-- 💬 Ask me about **Python, Software Engineering, Android Development, App archutecture, Web sesign, Web Engineering, DevOps Engineering**
+- 💬 Ask me about **Python, Software Engineering, Android Development, App archutecture, Web sesign, Web Engineering, DevOps Engineering, Cyber Security, SOC Analysis**
 
 - 📫 How to reach me **owuordove@gmail.com**
 - - 👀 I’m am a Certified Software Engineer who is passionate about App design,, Software Engineering, DevOps Engineering, web development, Python programming, Web design, Android development, Analytics, Programming languages, Data Science, Computer Science
 - 🌱 I’m currently learning computer Science at University Of The People. I am also a Technical Education student at Kirinyaga University. 
-- 💞️ I’m looking to collaborate on App Development/ UI/UX / Web Development, Programming
--
+- In addition to collaborating on app development, UI/UX design, web development, and programming, I'm also keen on partnerships in cybersecurity, SOC analysis, data science, e-commerce, and telehealth initiatives. 💞️ Let's explore innovative solutions together!-
           
 
-- 📄 Know about my experiences [www.linkedin.com/in/dovineowuor](www.linkedin.com/in/dovineowuor)
+- 📄 Know about me and Connect with me on Linkedin at [Linkedin.com](www.linkedin.com/in/dovineowuor)
 
 - ⚡ Fun fact **I love learning and bettering my experience in the Tech field. I love facing challanges and rendering them formless getting their remedies.**
 
