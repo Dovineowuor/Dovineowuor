@@ -21,14 +21,14 @@
 - 🔭 I’m currently working on [TechDarasa](https://techdarasa.tech) An Edtech product fueled by passion and grit with ikigai encompassed
 
 <p align="center">
-  Currently, I'm involved in [Techdarasa](https://techdarasa.tech) a project centered around Techdarasa, a robust learning management system designed to revolutionize education delivery. Techdarasa seamlessly integrates interactive modules, multimedia resources, and assessment tools to enhance the learning experience. Leveraging cutting-edge technology, it offers personalized learning paths tailored to individual needs. Through collaborative features, it fosters engagement and knowledge sharing among students and educators alike. With its intuitive interface and comprehensive analytics, Techdarasa empowers educators to track progress and optimize teaching strategies, ultimately shaping a dynamic and adaptive learning ecosystem.
+  Currently, I'm involved in <a href="https://techdarasa.tech"> Techdarasa</a>  a project centered around Techdarasa, a robust learning management system designed to revolutionize education delivery. Techdarasa seamlessly integrates interactive modules, multimedia resources, and assessment tools to enhance the learning experience. Leveraging cutting-edge technology, it offers personalized learning paths tailored to individual needs. Through collaborative features, it fosters engagement and knowledge sharing among students and educators alike. With its intuitive interface and comprehensive analytics, Techdarasa empowers educators to track progress and optimize teaching strategies, ultimately shaping a dynamic and adaptive learning ecosystem.
 </p>
 
 <p align="center">
   - 🌱 I’m currently learning <strong>Kotlin, Java, Vue.js, Node.js, Python, C</strong>
 </p>
 <p align="center">
-- 👯 I’m looking to collaborate on <a href="https://techdarasa.tech">TechDarasa</a>
+ 👯 I’m looking to collaborate on <a href="https://techdarasa.tech">TechDarasa</a>
 </p>
 <p align="center">
 - 🤝 I’m looking for Collaboration in the Project <strong>Domatex Soln</strong>
