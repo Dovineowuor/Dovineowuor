@@ -1,24 +1,24 @@
-<div id="header" align="center" style="width:100vw height:75%">
-  <img src = "https://github.com/Dovineowuor/Dovineowuor/assets/70941806/6241c646-4430-40b8-9bfe-91e0bc55420f" 
+<head>
+  <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+
+<div id="header" align="center" class="d-flex flex-column justify-content-center align-items-center" style="width:100vw height:75%">
+  <img class = "image-fluid w-100" src = "https://github.com/Dovineowuor/Dovineowuor/assets/70941806/6241c646-4430-40b8-9bfe-91e0bc55420f" 
 <!--  ![image]()  -->
-
-    
-
-  <h1>
-  </h1>
 </div>
 
 
 <h1 align="center">Hello There 👋, I'm Dovine K</h1>
 
-<p>
-  <center>
+<div class="d-flex align-items-center justify-content-center">
+  <center class="d-flex flex-column justify-content-center align-items-center">
     <a href="https://github.com/Dovineowuor">
         <img id="header" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dovineowuor&theme=radical" alt="dovineowuor"/>
     </a>
   </center>
     
-</p>
+</div>
 
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
@@ -110,3 +110,7 @@ Currently, I'm involved in [Techdarasa](https://techdarasa.tech) a project cente
 ![portfolio](https://user-images.githubusercontent.com/70941806/200201815-29c04982-1550-43c3-98b9-fea3b3a089ea.png)
 
 --->
+
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JoXipqI+6p6MGN9e0sIiqvpDf/3OAQ/CjDv6+URaB6Xj1k4gXgIy6k4/6F5eg2KR" crossorigin="anonymous"></script>
+
