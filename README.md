@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" style="width:100vw height:75%">
   <img src = "https://github.com/Dovineowuor/Dovineowuor/assets/70941806/6241c646-4430-40b8-9bfe-91e0bc55420f" 
 <!--  ![image]()  -->
 
