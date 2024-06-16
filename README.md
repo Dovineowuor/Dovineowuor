@@ -39,7 +39,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://dovineowuor.me">Dovine OWuor</a>
 </p>
 <p align="center">
-- 📝 I regularly write articles on <a href="https://blogger.dovetecenterprises.tech">blogger.dovetecenterprises.tech</a> and <a href="https://medium.com/@owuordove">Medium</a>
+- 📝 I regularly write articles on <a href="blogger.dovetecenterprises.tech">blogger.dovetecenterprises.tech</a> and <a href="https://medium.com/@owuordove">Medium</a>
 </p>
 <p align="center">
 - 💬 Ask me about <strong>Python, Software Engineering, Android Development, App architecture, Web design, Web Engineering, DevOps Engineering, Cyber Security, SOC Analysis</strong>
