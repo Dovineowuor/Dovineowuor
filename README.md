@@ -88,9 +88,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dovineowuor&show_icons=true&locale=en&layout=compact" alt="dovineowuor" /></p>
 <div class="d-flex align-items-center justify-content-center">
   <center class="d-flex flex-column justify-content-center align-items-center">
-    <a href="https://github.com/Dovineowuor">
-        <img id="header" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dovineowuor&theme=radical" alt="dovineowuor"/>
-    </a>
+<!--     <a href="https://github.com/Dovineowuor">
+        <img id="header" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dovineowuor&theme=light" alt="dovineowuor"/>
+    </a> -->
   </center>
     
 </div>
