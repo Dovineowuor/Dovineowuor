@@ -22,23 +22,23 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [TechDarasa](https://techdarasa.tech) An Edtech product fueled by passion and grit with ikigai encompassed
+- 🔭 I’m currently working on [TechDarasa](https://techdarasa.dovetecenterprises.site) An Edtech product fueled by passion and grit with ikigai encompassed
 
 <p align="center">
-  Currently, I'm involved in <a href="https://techdarasa.tech"> Techdarasa</a>  a project centered around Techdarasa, a robust learning management system designed to revolutionize education delivery. Techdarasa seamlessly integrates interactive modules, multimedia resources, and assessment tools to enhance the learning experience. Leveraging cutting-edge technology, it offers personalized learning paths tailored to individual needs. Through collaborative features, it fosters engagement and knowledge sharing among students and educators alike. With its intuitive interface and comprehensive analytics, Techdarasa empowers educators to track progress and optimize teaching strategies, ultimately shaping a dynamic and adaptive learning ecosystem.
+  Currently, I'm involved in <a href="https://techdarasa.dovetecenterprises.site"> Techdarasa</a>  a project centered around Techdarasa, a robust learning management system designed to revolutionize education delivery. Techdarasa seamlessly integrates interactive modules, multimedia resources, and assessment tools to enhance the learning experience. Leveraging cutting-edge technology, it offers personalized learning paths tailored to individual needs. Through collaborative features, it fosters engagement and knowledge sharing among students and educators alike. With its intuitive interface and comprehensive analytics, Techdarasa empowers educators to track progress and optimize teaching strategies, ultimately shaping a dynamic and adaptive learning ecosystem.
 </p>
 
 <p align="center">
   - 🌱 I’m currently learning <strong>Kotlin, Java, Vue.js, Node.js, Python, C</strong>
 </p>
 <p align="center">
- 👯 I’m looking to collaborate on <a href="https://techdarasa.tech">TechDarasa</a>
+ 👯 I’m looking to collaborate on <a href="https://techdarasa.dovetecenterprises.site">TechDarasa</a>
 </p>
 <p align="center">
 - 🤝 I’m looking for Collaboration in the Project <strong>Domatex Soln</strong>
 </p>
 <p align="center">
-- 👨‍💻 All of my projects are available at <a href="https://dovineowuor.me">Dovine OWuor</a>
+- 👨‍💻 All of my projects are available at <a href="https://dovineowuor.github.io">Dovine OWuor</a>
 </p>
 <p align="center">
 - 📝 I regularly write articles on <a href="http://blogger.dovetecenterprises.tech">blogger.dovetecenterprises.tech</a> and <a href="https://medium.com/@owuordove">Medium</a>
@@ -53,7 +53,7 @@
 - 👀 I’m am a Certified Software Engineer who is passionate about App design, Software Engineering, DevOps Engineering, web development, Python programming, Web design, Android development, Analytics, Programming languages, Data Science, Computer Science
 </p>
 <p align="center">
-- 🌱 I’m currently learning computer Science at University Of The People. I am also a Technical Education student at Kirinyaga University.
+- 🌱 I’m currently learning computer Science at the University Of The People. I am also an ex-student of Technical Education at Kirinyaga University.
 </p>
 <p align="center">
 - In addition to collaborating on app development, UI/UX design, web development, and programming, I'm also keen on partnerships in cybersecurity, SOC analysis, data science, e-commerce, and telehealth initiatives. 💞️ Let's explore innovative solutions together!
@@ -62,7 +62,7 @@
 - 📄 Know about me and Connect with me on Linkedin at <a href="www.linkedin.com/in/dovineowuor">Linkedin.com</a>
 </p>
 <p align="center">
-- ⚡ Fun fact <strong>I love learning and bettering my experience in the Tech field. I love facing challenges and rendering them formless getting their remedies.</strong>
+- ⚡ Fun fact <strong>I love learning and bettering my experience in the Tech field. I love facing challenges and rendering them formless, getting their remedies.</strong>
 </p>
 
 <h3 align="center">Blogs posts</h3>
@@ -123,7 +123,7 @@
 </p>
 
 <!---
- is a ✨ special ✨ repository because its `README.md` (this file) appears on This GitHub profile.
+ is a ✨ special ✨ repository because its `README.md` (this file) appears on this GitHub profile.
 ![Dovine Owuor](https://user-images.githubusercontent.com/70941806/178122822-b176c902-1f19-4f9c-9ade-a9b7191f856b.jpg)
 ![01-html-css-git-challenge-demo](https://user-images.githubusercontent.com/70941806/198583876-16675f7a-36b2-40d6-8aa7-695c4e117f4b.png)
 ![portfolio](https://user-images.githubusercontent.com/70941806/200201815-29c04982-1550-43c3-98b9-fea3b3a089ea.png)
